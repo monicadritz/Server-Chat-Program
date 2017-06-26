@@ -1,0 +1,16 @@
+To run chatserve.py
+
+Give it executable permissions: chmod +x chatserve.py
+
+Run by using the command python chatserve.py <server_port>
+
+
+To run the client side chatclient.cpp
+
+To Compile use the following: gcc chatclient.cpp -o chatClient
+
+Run by using the command: chatclient <server_ip> <server_port>
+
+I tested this program on flip2.engr.oregonstate.edu
+
+The first message must be sent on chatclient.
